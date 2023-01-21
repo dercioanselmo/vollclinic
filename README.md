@@ -18,14 +18,21 @@ The scope of the current project is o build the Rest API for the app. While the 
 
 ## 🎨 Layout
 Bellow the designd layout of the app that will be consumming the Rest APIs
+
 ###Home
+
 ![image](https://user-images.githubusercontent.com/122406765/213868534-aa30c69d-cb37-4eca-8486-0863f7a45292.png)
 
+
 ###Doctors
+
 ![image](https://user-images.githubusercontent.com/122406765/213868599-788d4d6c-5e1b-4894-ab04-27bb6ae5ec0f.png)
 
+
 ###Patients
+
 ![image](https://user-images.githubusercontent.com/122406765/213868647-ab3b9367-f604-4a77-9083-7e08f0f7ffb2.png)
+
 
 ## 🛠 Tech Stack
 - **[Java 17](https://www.oracle.com/java)**
